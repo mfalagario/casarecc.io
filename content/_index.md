@@ -1,6 +1,6 @@
 ---
 title: "🍲 CASARECCIO 🍳"
-description: 'The fast-loading recipe site with cooking only and no ads.'
+description: 'Provona.'
 layout: single
 ---
 
